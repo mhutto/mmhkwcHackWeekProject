@@ -1,0 +1,94 @@
+/*.bells1 {
+	position: absolute;
+	height: 100px;
+	width: 100px;
+	top: 100px;
+	left: 300px;
+}
+*/
+
+
+.lamp2 {
+	position: absolute;
+	height: 12%;
+	width: 3%;
+	top: 450px;
+	left: 250px;
+	z-index:1000;
+}
+
+.lamp3 {
+	position: absolute;
+	height: 12%;
+	width: 3%;
+	top: 450px;
+	left: 1150px;
+	z-index:1000;
+}
+
+.tree4 {
+	position: absolute;
+	height: 16%;
+	width: 7%;
+	top: 530px;
+	left: 660px;
+	z-index:499;
+}
+
+.sleigh5 {
+	position: absolute;
+	height: 16%;
+	width: 10%;
+	top: 230px;
+	z-index:1;
+	left:-200px;
+	
+	    -moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        filter: FlipH;
+        -ms-filter: "FlipH";
+}
+
+.lights6 {
+	position: absolute;
+	height: 200px;
+	width: 332px;
+	left: 39%;
+	top: 35%;
+	z-index:1001;
+}
+
+.sign7 {
+	position: absolute;
+	height: 16%;
+	width: 7%;
+	top: 230px;
+	left: -200px;
+	z-index:690;
+}
+
+
+
+body {
+	background-image: url("background.jpg");
+	background-size: cover;
+}
+
+
+
+
+
+#snowflakeContainer {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.snowflake {
+    padding-left: 15px;
+    font-family: Cambria, Georgia, serif;
+    font-size: 14px;
+    line-height: 24px;
+    position: fixed;
+   
